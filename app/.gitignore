@@ -1,0 +1,55 @@
+# Gradle files
+.gradle/
+build/
+.gradle
+
+# Local configuration files (e.g., IDE settings)
+.idea/
+*.iml
+
+# Generated files
+bin/
+gen/
+out/
+*.apk
+*.ap_
+*.aab
+
+# Dependency directories
+libs/
+*.jar
+*.aar
+
+# Android Studio navigation editor temp files
+.navigation/
+
+# Keystore files (if you have any)
+*.jks
+*.keystore
+
+# Proguard files
+proguard/
+
+# Log files
+*.log
+
+# Local properties (contains SDK path, should not be tracked)
+local.properties
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore user-specific files
+*.swp
+*.swo
+
+# Ignore compiled native libraries
+*.so
+
+# Ignore any secret files (e.g., API keys)
+secrets.properties
+google-services.json

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Profileactivity" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/dark_gray</item>
+        <!-- Secondary brand color (use colorAccent as a fallback) -->
+        <item name="colorAccent">@color/dark_gray</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/black</item>
+        <!-- Customize your theme -->
+        <item name="android:windowBackground">@color/black</item>
+        <!-- Text color for primary elements (alternative to colorOnPrimary) -->
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>
